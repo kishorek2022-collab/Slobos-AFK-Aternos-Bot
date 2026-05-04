@@ -1,7 +1,7 @@
 {
   "name": "Owner",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Owner",
     "password": "",
     "type": "offline"
   },
@@ -65,8 +65,8 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": false,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/5Q8DSmvEm",
     "events": {
       "connect": true,
       "disconnect": true,
